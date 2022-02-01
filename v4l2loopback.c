@@ -106,7 +106,7 @@ typedef unsigned __poll_t;
 
 /* maximum number of v4l2loopback devices that can be created */
 #ifndef MAX_DEVICES
-#define MAX_DEVICES 8
+#define MAX_DEVICES 20
 #endif
 
 /* whether the default is to announce capabilities exclusively or not */
